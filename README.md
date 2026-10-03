@@ -257,11 +257,14 @@ See [manual.md](manual.md) for detailed user guide.
 
 ## Important Notes
 
+### Deployment Status
+
+- LiveMedBench was previously deployed as a live web application. The hosted instance is currently offline. The application can still be run locally using the setup instructions above.
+
 ### API Costs
 
 - This platform makes multiple API calls per evaluation (5 runs × selected models + scoring)
 - **Each evaluation costs money** through LLM provider APIs
-- **Deployed version uses researcher's API keys** - not for public deployment
 
 ### Academic Use
 
