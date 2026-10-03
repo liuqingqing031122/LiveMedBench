@@ -50,11 +50,6 @@ The Medical LLM Comparative Evaluation Platform helps you assess how well differ
 3. Start frontend: `cd frontend && npm start`
 4. Access at: `http://localhost:3000`
 
-**Deployed Version (if available):**
-
-- Contact the researcher for access URL
-- Note: Deployed version uses researcher's API keys with usage limits
-
 ### First Time Setup
 
 1. **Read the Guidance**: The landing page provides an overview of platform functionality
@@ -538,7 +533,7 @@ A: Yes, but minimum 2 models required for meaningful comparison. You can select 
 A: No, accounts are optional. Create one only if you want conversation history saved.
 
 **Q: How many evaluations can I run?**
-A: Local installation: unlimited (you pay API costs). Deployed version: subject to daily limits.
+A: Local installation: unlimited (you pay API costs). 
 
 ### Technical Questions
 
@@ -582,11 +577,6 @@ A: For research purposes, anonymized query patterns may be analyzed. No personal
 - Read [Educational Resources](#educational-resources) in-app
 - Review this manual thoroughly
 - Contact researcher through University of Glasgow
-
-**For Academic Inquiries:**
-
-- Contact through University of Glasgow School of Computing Science
-- Reference: Level 4 Computing Science Dissertation Project (2025-2026)
 
 ### Reporting Issues
 
@@ -654,5 +644,3 @@ This is an academic project with scope limitations. Feature requests may be cons
 **End of User Manual**
 
 _For technical documentation, see [README](README.md)_  
-_For academic context, see the dissertation document_  
-_Platform Version: 2025-2026 Academic Year_
