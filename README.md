@@ -346,7 +346,7 @@ Academic project for educational purposes.
 
 For questions about this project or technical issues, please contact:
 
-Qingqing Liu - 2756053L@student.gla.ac.uk
+Qingqing Liu - liuqingqing0312@outlook.com
 
 For academic supervision inquiries, please contact through the School of Computing Science.
 
