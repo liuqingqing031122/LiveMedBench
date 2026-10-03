@@ -1,6 +1,10 @@
-# Medical LLM Comparative Evaluation Platform
+# LiveMedBench: A Question-Type-Aware Platform for Evaluating Medical Information Currency in LLMs
 
 A web-based platform for evaluating how well different Large Language Models (LLMs) handle outdated medical information. The system provides real-time comparative assessment of Claude, GPT-5, Gemini, and DeepSeek on medical queries, with automated safety scoring and bias mitigation.
+
+### Deployment Status
+
+- LiveMedBench was previously deployed as a live web application. The hosted instance is currently offline. The application can still be run locally using the setup instructions below.
 
 ## Project Overview
 
@@ -24,7 +28,7 @@ The system follows a client-server architecture:
 ## Project Structure
 
 ```
-medical-llm-evaluation/
+LiveMedBench/
 ├── backend/                   # FastAPI backend server
 │   ├── main.py                # Application entry point
 │   ├── auth.py                # Authentication & authorization
@@ -124,8 +128,8 @@ medical-llm-evaluation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/liuqingqing031122/llm_safety_testing.git
-cd llm-safety-testing
+git clone https://github.com/liuqingqing031122/LiveMedBench.git
+cd LiveMedBench
 ```
 
 ### 2. Backend Setup
@@ -256,10 +260,6 @@ Frontend tests validate:
 See [manual.md](manual.md) for detailed user guide.
 
 ## Important Notes
-
-### Deployment Status
-
-- LiveMedBench was previously deployed as a live web application. The hosted instance is currently offline. The application can still be run locally using the setup instructions above.
 
 ### API Costs
 
