@@ -1,4 +1,4 @@
-# Medical LLM Comparative Evaluation Platform - User Manual
+# LiveMedBench - User Manual
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 ### What is This Platform?
 
-The Medical LLM Comparative Evaluation Platform helps you assess how well different AI language models (LLMs) handle medical information, particularly focusing on whether they provide up-to-date and safe medical responses.
+LiveMedBench helps you assess how well different AI language models (LLMs) handle medical information, particularly focusing on whether they provide up-to-date and safe medical responses.
 
 **Key Features:**
 
